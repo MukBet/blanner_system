@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+venv_banner_system
+db.sqlite3
+.DS_Store
+.idea
